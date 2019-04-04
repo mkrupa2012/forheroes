@@ -1,0 +1,56 @@
+.top-icon {
+    /*border: 1px solid black;*/
+    list-style: none;
+}
+.top-icon img {
+    /*border: 1px solid red;*/
+    width: 15px;
+    height: 15px;
+}
+.top-info {
+    /*border: 1px solid black;*/
+    list-style: none;
+}
+.top-info li {
+    /*margin-top: 3px;*/
+    text-align: center;
+    padding-right: 5px;
+    display: inline-block;
+}
+.top-icon li {
+    padding-right: 5px;
+    display: inline-block;
+}
+.top-icon a {
+    text-decoration: none;
+    color: black;
+}
+.top-info a {
+    text-decoration: none;
+    color: black;
+}
+.top-info img {
+    /*border: 1px solid darkcyan;*/
+    width: 15px;
+    height: 15px;
+}
+#top-menu {
+    /*border: 1px solid red;*/
+    background: whitesmoke;
+    width: 100%;
+    height: 32px;
+}
+#top-menu li {
+    line-height: 32px;
+}
+.phone-icon {
+    width: 15px;
+    height: 15px;
+}
+.email-icon {
+    width: 15px;
+    height: 15px;
+}
+.top-icon a:hover {
+    color: #d4213d;
+}

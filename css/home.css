@@ -1,0 +1,46 @@
+.main-text {
+    width: 50%;
+    float: left;
+}
+.main-foto {
+    float: right;
+}
+.news1 {
+    display: inline-block;
+    line-height: 25px;
+    margin-top: 30px;
+    min-height: 250px;
+}
+.foto1 {
+    width: 400px;
+    height: auto;
+    margin-top: 30px;
+}
+.main-text h2 {
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+.main-text a {
+    text-decoration: none;
+    color: black;
+}
+.main-text a:hover {
+    color: #d4213d;
+}
+.read-more {
+    padding-top: 10px;
+    float: right;
+}
+.news2 {
+    display: inline-block;
+    line-height: 25px;
+    margin-top: 20px;
+    min-height: 250px;
+}
+.news3 {
+    display: inline-block;
+    line-height: 25px;
+    margin-top: 20px;
+    min-height: 250px;
+    margin-bottom: 20px;
+}

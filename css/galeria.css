@@ -1,0 +1,19 @@
+#gallery {
+    height: 1100px;
+}
+.foto-div {
+    width: 300px;
+    float: left;
+    margin: 10px;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.foto-div img {
+    border: 3px solid gold;
+}
+.min {
+    height: 300px;
+}
+.gallery-box a {
+    width: 300px;
+}

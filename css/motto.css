@@ -1,0 +1,31 @@
+.about-us {
+    font-family: 'Old Standard TT', serif;
+    text-align: center;
+    font-size: 25px;
+    opacity: 0.6;
+    margin-top: 50px;
+    line-height: 35px;
+}
+#about1 {
+    /*text-shadow: 1px 1px grey;*/
+    height: 300px;
+    opacity: 0.9;
+    /*border-bottom: 1px solid gray;*/
+}
+.main-topic {
+    height: 50px;
+}
+.topic2 {
+    padding-top: 10px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    /*background-color: #bbbbbb;*/
+}
+.main-topic h2:hover {
+    color: #d4213d;
+}
+.who {
+    color: #d4213d;
+}

@@ -1,0 +1,57 @@
+.formularz {
+    height: 800px;
+    margin-top: 50px;
+    font-size: 24px;
+    margin-left: 100px;
+    line-height: 80px;
+}
+.full-width-1 {
+    width: 450px;
+    height: 50px;
+    margin-left: 70px;
+}
+.full-width-2 {
+    width: 450px;
+    height: 50px;
+    margin-left: 22px;
+}
+.full-width-3 {
+    margin-top: 50px;
+    width: 450px;
+    height: 50px;
+    margin-left: 70px;
+    padding-top: 20px;
+}
+.formularz textarea {
+    width: 450px;
+    height: 250px;
+}
+.button-primary {
+    width: 80px;
+    height: 50px;
+}
+.message {
+    padding-right: 63px;
+}
+.check {
+    margin-left: 300px
+}
+.hide {
+    display: none;
+}
+#exampleMessage {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+#exampleEmailInput {
+    padding-left: 10px;
+}
+#exampleNameInput {
+    padding-left: 10px;
+}
+.label-body {
+    padding-right: 20px;
+}
+select {
+    padding-left: 10px;
+}

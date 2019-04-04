@@ -1,0 +1,27 @@
+#top-footer {
+    margin-top: 50px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.numbers a {
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+.numbers li {
+    width: 25px;
+    list-style: none;
+    /*padding-right: 15px;*/
+    text-align: center;
+    float: left;
+}
+.numbers li:hover {
+    background-color: #d67987;
+    border: 1px solid black;
+}
+/*.numbers li a:active {*/
+    /*border: 1px solid black;*/
+/*}*/
+.numbers {
+    margin-left: 45%;
+}

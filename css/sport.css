@@ -1,0 +1,40 @@
+#sport {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+#sport .foto {
+    text-align: center;
+}
+.sport-info h4 {
+    text-align: center;
+    margin-top: 30px;
+}
+.sport-info p {
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 15px;
+    line-height: 30px;
+}
+.sport-info ul {
+    margin-left: 60px;
+}
+.sport-info ul img {
+    width: 20px;
+    height: 20px;
+    /*margin-t: 10px;*/
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.sport-info li {
+    margin-top: 15px;
+    list-style: none;
+}
+.sport-info li img {
+    color: darkred;
+}
+.foto-kosz {
+    width: 750px;
+    border: 3px solid gold;
+    margin-top: 50px;
+    text-align: center;
+}

@@ -1,0 +1,89 @@
+#partners {
+    width: 100%;
+    height: 80px;
+    background: grey;
+}
+.list li {
+    padding-right: 20px;
+    float: left;
+    list-style: none;
+}
+#footer {
+    width: 100%;
+    height: 280px;
+    background: black;
+}
+.data {
+    color: whitesmoke;
+}
+.data li {
+    opacity: 0.8;
+    list-style: none;
+    font-size: 17px;
+    line-height: 3px;
+    padding-top: 30px;
+}
+.foto2 {
+    margin-top: 10px;
+    width: auto;
+    height: 60px;
+    /*opacity: 0.7;*/
+}
+.foto3 {
+    /*opacity: 0.7;*/
+    height: 30px;
+    width: auto;
+    margin-top: 25px;
+}
+.list h3 {
+    padding-right: 30px;
+    margin-top: 30px;
+    opacity: 0.6;
+}
+.data-a {
+    margin-top: 10px;
+    float: left;
+    width: 40%;
+}
+.data-b {
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    width: 20%;
+}
+.data-c {
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    width: 20%;
+}
+.data-d {
+    margin-top: 10px;
+    text-align: center;
+    float: left;
+    width: 20%;
+}
+.data-b img {
+    height: 150px;
+    width: auto;
+}
+.data-c img {
+    height: 150px;
+    width: auto;
+}
+.data-d img {
+    height: 150px;
+    width: auto;
+}
+.data-b p {
+    margin-top: 5px;
+    opacity: 0.8;
+}
+.data-c p {
+    margin-top: 5px;
+    opacity: 0.8;
+}
+.data-d p {
+    margin-top: 5px;
+    opacity: 0.8;
+}

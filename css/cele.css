@@ -1,0 +1,21 @@
+.li-cele {
+    margin: 40px;
+    font-size: 24px;
+}
+.big {
+    padding-bottom: 45px;
+    text-decoration: none;
+    list-style: none;
+}
+.smaller {
+    opacity: 0.8;
+    padding-top: 15px;
+    margin-left: 40px;
+}
+.smaller li {
+    line-height: 35px;
+}
+.top-text {
+    color: #d4213d;
+    opacity: 0.6;
+}
